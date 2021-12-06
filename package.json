@@ -1,0 +1,11 @@
+{
+  "name": "javscript-css-work",
+  "version": "1.0.0",
+  "description": "i look how javascript can control css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lihano <ihan12389@gmail.com> (https://github.com/ihan12389/typeTalk.git)",
+  "license": "ISC"
+}
